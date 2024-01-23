@@ -61,6 +61,8 @@ const styles = StyleSheet.create({
     height: -100,
     marginBottom: 60,
     marginTop: 30,
+    maxHeight: 200,
+    maxWidth: 350,
   },
   placeholder: {
     position: 'absolute',
