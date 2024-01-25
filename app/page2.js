@@ -32,6 +32,9 @@ export default function Page() {
           <Text style={Styles.sentence}>{sentence}</Text>
         </View>
       </View>
+      <Text style={Styles.subtitle}>
+        Sign Here
+      </Text>
       <Signature
         style={Styles.signatureBox}
         descriptionText=""

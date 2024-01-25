@@ -41,6 +41,7 @@ const styles = StyleSheet.create({
   },
   sentence: {
     fontSize: 35,
+    marginBottom: 15,
   },
   leftContainer: {
     flex: 1,
@@ -59,9 +60,9 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     width: 350,
     height: -100,
-    marginBottom: 60,
-    marginTop: 30,
-    maxHeight: 200,
+    marginBottom: 30,
+    marginTop: 15,
+    maxHeight: 250,
     maxWidth: 350,
   },
   placeholder: {
